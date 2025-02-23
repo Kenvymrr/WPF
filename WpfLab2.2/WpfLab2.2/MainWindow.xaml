@@ -1,0 +1,61 @@
+﻿<Window x:Class="CompilerWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CompilerWPF"
+        mc:Ignorable="d"
+        Title="Compiler and Interpreter" Height="600" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Column="0" Grid.Row="0">
+            <Label Content="Code Editor" Margin="5,0,5,0"/>
+            <ScrollViewer VerticalScrollBarVisibility="Auto">
+                <TextBox x:Name="CodeTextBox" Margin="5" AcceptsReturn="True" TextWrapping="Wrap" Height="200" Width="380" />
+            </ScrollViewer>
+
+        </StackPanel>
+        <StackPanel Grid.Column="1" Grid.Row="0">
+            <Label Content="Output" Margin="5,0,5,0"/>
+            <ScrollViewer VerticalScrollBarVisibility="Auto">
+                <TextBox x:Name="OutputTextBox" Margin="5" IsReadOnly="True" TextWrapping="Wrap" Height="200" Width="380"/>
+            </ScrollViewer>
+
+        </StackPanel>
+
+        <StackPanel Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button x:Name="PlayButton" Margin="5" Padding="10,5" Click="PlayButton_Click">
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="Resources/play.png" Width="16" Height="16" Margin="0,0,5,0"/>
+                    <TextBlock Text="Play"/>
+                </StackPanel>
+            </Button>
+
+            <Button x:Name="OpenFileButton" Margin="5" Padding="10,5" Click="OpenFileButton_Click">
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="Resources/folder.png" Width="16" Height="16" Margin="0,0,5,0"/>
+                    <TextBlock Text="Open File"/>
+                </StackPanel>
+            </Button>
+            <Button x:Name="ClearRegistersButton" Content="Clear Registers" Margin="5" Padding="10,5" Click="ClearRegistersButton_Click"/>
+        </StackPanel>
+
+        <StackPanel Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="2">
+            <Label Content="Register Values" Margin="5,0,5,0"/>
+            <ScrollViewer VerticalScrollBarVisibility="Auto">
+                <TextBox x:Name="RegisterValuesTextBox" Margin="5" IsReadOnly="True" TextWrapping="Wrap" Height="200" Width="780"/>
+            </ScrollViewer>
+
+        </StackPanel>
+
+    </Grid>
+</Window>

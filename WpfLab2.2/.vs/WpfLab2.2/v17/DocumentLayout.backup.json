@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\My fun\\WPF\\WpfLab2.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95AC648B-2E21-4EAC-82C8-0639E097BD9A}|WpfLab2.2\\WpfLab2.2.csproj|c:\\my fun\\wpf\\wpflab2.2\\wpflab2.2\\executor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95AC648B-2E21-4EAC-82C8-0639E097BD9A}|WpfLab2.2\\WpfLab2.2.csproj|solutionrelative:wpflab2.2\\executor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AC648B-2E21-4EAC-82C8-0639E097BD9A}|WpfLab2.2\\WpfLab2.2.csproj|C:\\My fun\\WPF\\WpfLab2.2\\wpflab2.2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95AC648B-2E21-4EAC-82C8-0639E097BD9A}|WpfLab2.2\\WpfLab2.2.csproj|solutionrelative:wpflab2.2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AC648B-2E21-4EAC-82C8-0639E097BD9A}|WpfLab2.2\\WpfLab2.2.csproj|c:\\my fun\\wpf\\wpflab2.2\\wpflab2.2\\resources\\textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{95AC648B-2E21-4EAC-82C8-0639E097BD9A}|WpfLab2.2\\WpfLab2.2.csproj|solutionrelative:wpflab2.2\\resources\\textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AC648B-2E21-4EAC-82C8-0639E097BD9A}|WpfLab2.2\\WpfLab2.2.csproj|C:\\My fun\\WPF\\WpfLab2.2\\wpflab2.2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{95AC648B-2E21-4EAC-82C8-0639E097BD9A}|WpfLab2.2\\WpfLab2.2.csproj|solutionrelative:wpflab2.2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AC648B-2E21-4EAC-82C8-0639E097BD9A}|WpfLab2.2\\WpfLab2.2.csproj|c:\\my fun\\wpf\\wpflab2.2\\wpflab2.2\\compilationresultdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{95AC648B-2E21-4EAC-82C8-0639E097BD9A}|WpfLab2.2\\WpfLab2.2.csproj|solutionrelative:wpflab2.2\\compilationresultdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AC648B-2E21-4EAC-82C8-0639E097BD9A}|WpfLab2.2\\WpfLab2.2.csproj|c:\\my fun\\wpf\\wpflab2.2\\wpflab2.2\\compilationresultdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95AC648B-2E21-4EAC-82C8-0639E097BD9A}|WpfLab2.2\\WpfLab2.2.csproj|solutionrelative:wpflab2.2\\compilationresultdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AC648B-2E21-4EAC-82C8-0639E097BD9A}|WpfLab2.2\\WpfLab2.2.csproj|c:\\my fun\\wpf\\wpflab2.2\\wpflab2.2\\compiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95AC648B-2E21-4EAC-82C8-0639E097BD9A}|WpfLab2.2\\WpfLab2.2.csproj|solutionrelative:wpflab2.2\\compiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AC648B-2E21-4EAC-82C8-0639E097BD9A}|WpfLab2.2\\WpfLab2.2.csproj|c:\\my fun\\wpf\\wpflab2.2\\wpflab2.2\\inputbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95AC648B-2E21-4EAC-82C8-0639E097BD9A}|WpfLab2.2\\WpfLab2.2.csproj|solutionrelative:wpflab2.2\\inputbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CompilationResultDialog.xaml.cs",
+              "DocumentMoniker": "C:\\My fun\\WPF\\WpfLab2.2\\WpfLab2.2\\CompilationResultDialog.xaml.cs",
+              "RelativeDocumentMoniker": "WpfLab2.2\\CompilationResultDialog.xaml.cs",
+              "ToolTip": "C:\\My fun\\WPF\\WpfLab2.2\\WpfLab2.2\\CompilationResultDialog.xaml.cs",
+              "RelativeToolTip": "WpfLab2.2\\CompilationResultDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:09:34.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompilationResultDialog.xaml",
+              "DocumentMoniker": "C:\\My fun\\WPF\\WpfLab2.2\\WpfLab2.2\\CompilationResultDialog.xaml",
+              "RelativeDocumentMoniker": "WpfLab2.2\\CompilationResultDialog.xaml",
+              "ToolTip": "C:\\My fun\\WPF\\WpfLab2.2\\WpfLab2.2\\CompilationResultDialog.xaml",
+              "RelativeToolTip": "WpfLab2.2\\CompilationResultDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-23T18:08:59.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Executor.cs",
+              "DocumentMoniker": "C:\\My fun\\WPF\\WpfLab2.2\\WpfLab2.2\\Executor.cs",
+              "RelativeDocumentMoniker": "WpfLab2.2\\Executor.cs",
+              "ToolTip": "C:\\My fun\\WPF\\WpfLab2.2\\WpfLab2.2\\Executor.cs",
+              "RelativeToolTip": "WpfLab2.2\\Executor.cs",
+              "ViewState": "AgIAANkAAAAAAAAAAAAswP0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:07:17.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Compiler.cs",
+              "DocumentMoniker": "C:\\My fun\\WPF\\WpfLab2.2\\WpfLab2.2\\Compiler.cs",
+              "RelativeDocumentMoniker": "WpfLab2.2\\Compiler.cs",
+              "ToolTip": "C:\\My fun\\WPF\\WpfLab2.2\\WpfLab2.2\\Compiler.cs",
+              "RelativeToolTip": "WpfLab2.2\\Compiler.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswBUAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:06:54.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InputBox.cs",
+              "DocumentMoniker": "C:\\My fun\\WPF\\WpfLab2.2\\WpfLab2.2\\InputBox.cs",
+              "RelativeDocumentMoniker": "WpfLab2.2\\InputBox.cs",
+              "ToolTip": "C:\\My fun\\WPF\\WpfLab2.2\\WpfLab2.2\\InputBox.cs",
+              "RelativeToolTip": "WpfLab2.2\\InputBox.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T17:56:22.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\My fun\\WPF\\WpfLab2.2\\WpfLab2.2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfLab2.2\\MainWindow.xaml",
+              "ToolTip": "C:\\My fun\\WPF\\WpfLab2.2\\WpfLab2.2\\MainWindow.xaml",
+              "RelativeToolTip": "WpfLab2.2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-23T12:24:45.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\My fun\\WPF\\WpfLab2.2\\WpfLab2.2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfLab2.2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\My fun\\WPF\\WpfLab2.2\\WpfLab2.2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfLab2.2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAAwLkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T12:24:44.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TextFile1.txt",
+              "DocumentMoniker": "C:\\My fun\\WPF\\WpfLab2.2\\WpfLab2.2\\Resources\\TextFile1.txt",
+              "RelativeDocumentMoniker": "WpfLab2.2\\Resources\\TextFile1.txt",
+              "ToolTip": "C:\\My fun\\WPF\\WpfLab2.2\\WpfLab2.2\\Resources\\TextFile1.txt",
+              "RelativeToolTip": "WpfLab2.2\\Resources\\TextFile1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-23T18:21:11.489Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
